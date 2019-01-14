@@ -1,4 +1,8 @@
 A user guide for this code is available from GPS Solutions.
+
+https://link.springer.com/article/10.1007/s10291-018-0744-8
+
+
 The code is hosted by the GPS ToolBox website except when the 
 US government is shut down.
 
@@ -24,7 +28,7 @@ Please note the LICENSE files.
 Section 2. Matlab
 The Matlab codes are in two folders.
 
-Folder Maps has codes that create Fresnel zone plots,
+FresnelMaps has codes that create Fresnel zone plots,
 both for a "plain" map and for google Earth.
 The latter seems to work best when you open google
 Earth first and then open the generated kml file.
